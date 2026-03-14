@@ -1,5 +1,7 @@
 🌐 Shruti Kumari – Developer Portfolio
 
+Vercel Link - https://portfolio-xi-lovat-6eqnb0e26u.vercel.app/
+
 A modern developer portfolio website showcasing my projects, skills, and experience in Data Analytics, Machine Learning, and Web Development.
 
 The website highlights my practical work, technical stack, and projects built during my Computer Science journey.
