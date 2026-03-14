@@ -16,7 +16,7 @@ const HeroSection = () => {
           </p>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-thin leading-none text-white whitespace-nowrap">
-            Aniket Kumar Rai
+            Shruti Kumari
           </h1>
 
           <p className="mt-4 text-base md:text-xl text-zinc-400">
@@ -51,7 +51,7 @@ const HeroSection = () => {
 
           <div className="mt-6 flex gap-4">
             <Link
-              href="https://github.com/aniketrai07"
+              href="https://github.com/shrutii2631                                                    "
               target="_blank"
               className="rounded-lg border border-white/20 p-3 text-white hover:bg-white/10 transition"
             >
@@ -59,7 +59,7 @@ const HeroSection = () => {
             </Link>
 
             <Link
-              href="https://www.linkedin.com/in/aniket-rai7"
+              href="https://www.linkedin.com/in/shruti286/"
               target="_blank"
               className="rounded-lg border border-white/20 p-3 text-white hover:bg-white/10 transition"
             >
@@ -67,7 +67,7 @@ const HeroSection = () => {
             </Link>
 
             <Link
-              href="mailto:aniketrai274409@gmail.com"
+              href="mailto:skumari63160@gmail.com"
               className="rounded-lg border border-white/20 p-3 text-white hover:bg-white/10 transition"
             >
               <Mail size={20} />
@@ -79,7 +79,7 @@ const HeroSection = () => {
           <div className="rounded-full p-[6px] border border-white/70 bg-white/5 shadow-[0_0_25px_rgba(255,255,255,0.12)]">
             <img
               src="/assets/me.jpg"
-              alt="Aniket Kumar Rai"
+              alt="Shruti Kumari"
               className="w-[300px] h-[300px] xl:w-[340px] xl:h-[340px] object-cover rounded-full border-[3px] border-white/90"
             />
           </div>

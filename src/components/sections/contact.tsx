@@ -7,32 +7,32 @@ import SectionWrapper from "../ui/section-wrapper";
 const items = [
   {
     title: "Email",
-    value: "aniketrai274409@gmail.com",
-    href: "mailto:aniketrai274409@gmail.com",
+    value: "skumari63160@gmail.com",
+    href: "mailto:skumari63160@gmail.com",
     icon: <Mail className="w-5 h-5" />,
   },
   {
     title: "Phone",
-    value: "+91 8381842870",
-    href: "tel:+918381842870",
+    value: "+91 9798774160",
+    href: "tel:+919798774160",
     icon: <Phone className="w-5 h-5" />,
   },
   {
     title: "Location",
-    value: "Gorakhpur, Uttar Pradesh, India",
-    href: "https://www.google.com/maps/search/Gorakhpur,+Uttar+Pradesh,+India",
+    value: "Dhanbad, Jharkhand, India",
+    href: "https://www.google.com/maps/search/Dhanbad,+Jharkhand,+India",
     icon: <MapPin className="w-5 h-5" />,
   },
   {
     title: "GitHub",
-    value: "github.com/aniketrai07",
-    href: "https://github.com/aniketrai07",
+    value: "github.com/shrutii2631",
+    href: "https://github.com/shrutii2631                                                    ",
     icon: <Github className="w-5 h-5" />,
   },
   {
     title: "LinkedIn",
-    value: "linkedin.com/in/aniket-rai7",
-    href: "https://www.linkedin.com/in/aniket-rai7/",
+    value: "linkedin.com/in/shruti286",
+    href: "https://www.linkedin.com/in/shruti286/ ",
     icon: <Linkedin className="w-5 h-5" />,
   },
   {

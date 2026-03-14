@@ -6,38 +6,27 @@ import React from "react";
 const PROJECTS = [
   {
     id: 1,
-    name: "Face Recognition Attendance System",
-    description: "AI-based attendance system using Flask and OpenCV to automate face-recognition-powered student attendance.",
-    link: "https://github.com/aniketrai07/Face-Recognition-Attendance-System",
-    image: "/assets/projects-screenshots/portfolio/project.png",
+    name: "Shopify Sales Analytics Dashboard",
+    description:
+      "Interactive Power BI dashboard built to analyze Shopify sales performance, customer behavior, and revenue trends for data-driven decision making.",
+    link: "https://github.com/shrutii2631/Shopify-PowerBI",
+    image: "/assets/projects-screenshots/shopify-powerbi.png",
   },
   {
     id: 2,
-    name: "Ivy League Intelligence",
-    description: "FastAPI-based research assistant that collects university data, deadlines, and admissions insights with automation.",
-    link: "https://github.com/aniketrai07/Ivy-league-Intelligence",
-    image: "/assets/projects-screenshots/web.png",
+    name: "Car Price Prediction",
+    description:
+      "Machine learning project that predicts car prices using Python, Pandas, NumPy, and Scikit-learn based on vehicle features and historical data.",
+    link: "https://github.com/shrutii2631/CAR_PREDICTION",
+    image: "/assets/projects-screenshots/car-prediction.png",
   },
   {
     id: 3,
-    name: "Fleet Manager Chatbot",
-    description: "Flask chatbot application built to automate fleet management queries with a practical conversational interface.",
-    link: "https://github.com/aniketrai07/Storify-project",
-    image: "/assets/projects-screenshots/1.webp",
-  },
-  {
-    id: 4,
-    name: "Car Price Prediction",
-    description: "Machine learning workflow using Python, Pandas, NumPy, and Scikit-learn to estimate car prices from automobile features.",
-    link: "https://github.com/aniketrai07/ML-Model",
-    image: "/assets/projects-screenshots/Senticome.png",
-  },
-  {
-    id: 5,
-    name: "Customer Churn Dashboard",
-    description: "Power BI dashboard using DAX and Power Query to identify churn risk, trends, and high-value retention opportunities.",
-    link: "https://github.com/aniketrai07/Customer-Churn-Analysis",
-    image: "/assets/projects-screenshots/Amza.webp",
+    name: "Storify",
+    description:
+      "Web application for creating, managing, and exploring digital stories with a clean interface and practical content-sharing experience.",
+    link: "https://github.com/shrutii2631/storify",
+    image: "/assets/projects-screenshots/storify.png",
   },
 ];
 
@@ -45,6 +34,7 @@ function ProjectsPage() {
   return (
     <div className="container mx-auto px-4 md:px-[50px] xl:px-[150px] text-zinc-300 min-h-screen py-8">
       <h1 className="text-4xl font-bold mt-[100px] mb-[50px]">Projects</h1>
+
       <ul className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         {PROJECTS.map((project) => (
           <li
@@ -62,6 +52,7 @@ function ProjectsPage() {
                 priority
               />
             </div>
+
             <div className="p-4 text-zinc-300 h-[210px] flex flex-col">
               <Link
                 href={project.link}
@@ -71,9 +62,11 @@ function ProjectsPage() {
               >
                 <h2 className="text-xl font-semibold mb-2">{project.name}</h2>
               </Link>
+
               <p className="text-xs text-zinc-500 flex-grow overflow-y-auto leading-6">
                 {project.description}
               </p>
+
               <Link
                 href={project.link}
                 target="_blank"

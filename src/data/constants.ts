@@ -190,11 +190,12 @@ export const JOURNEY = [
      "Developed a strong interest in Web Development and Data Science. Learned Python, MySQL, and worked with multiple Python libraries including Pandas, NumPy, OpenCV, and Scikit-learn while building practical real-world projects.",
   },
   {
-    year: "2024 - 2025",
-    title: "Built Real World Projects",
-    description:
-      "Built multiple real-world projects including Face Recognition Attendance System, Customer Churn Analysis, Library Tracker, and ML models to improve problem solving and development skills.",
-  },
+  year: "2024 - 2025",
+  title: "Data Analytics & ML Projects",
+  description:
+    "Built projects like Fleet Manager Chatbot, Shopify Sales Dashboard, and Car Price Prediction ML models to improve problem solving and development skills."
+},
+
   {
   year: "2025 - Present",
   title: "Placement Preparation & Advanced Skill Building",

@@ -1,109 +1,144 @@
-# 🚀 Aniket Kumar Rai — Developer Portfolio
+🌐 Shruti Kumari – Developer Portfolio
 
-Welcome to my personal developer portfolio website built using **Next.js, React, and Tailwind CSS**.  
-This website showcases my **projects, skills, certifications, and contact information**.
+A modern developer portfolio website showcasing my projects, skills, and experience in Data Analytics, Machine Learning, and Web Development.
 
-🔗 **Live Portfolio:** (Add your deployed link here after deployment)
+The website highlights my practical work, technical stack, and projects built during my Computer Science journey.
 
----
+🚀 Live Website
 
-# 👨‍💻 About Me
+After deployment your portfolio will be available at:
 
-I am a **Computer Science Engineering student** passionate about:
+https://your-vercel-link.vercel.app
 
-- Data Science
-- Machine Learning
-- Python Development
-- Full Stack Web Development
+🧑‍💻 About Me
 
-I enjoy building **data-driven applications, dashboards, and practical ML projects** that solve real-world problems.
+I am a Computer Science Engineering student at Lovely Professional University with a strong interest in Data Analytics, Machine Learning, and Software Development.
 
----
+I enjoy building real-world projects that combine data, backend logic, and user-friendly interfaces.
 
-# 🛠️ Tech Stack
+My goal is to create practical, impactful solutions using data and technology while continuously improving my development and problem-solving skills.
 
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- TypeScript
+🛠 Tech Stack
+Programming
 
-### Backend / Programming
-- Python
-- FastAPI
-- Flask
+Python
 
-### Data Science / ML
-- Pandas
-- NumPy
-- Scikit-Learn
-- OpenCV
+SQL
 
-### Database
-- MySQL
+JavaScript
 
-### Tools
-- Git & GitHub
-- VS Code
-- Tableau
-- Power BI
+Data & Machine Learning
 
----
+Pandas
 
-# 📂 Portfolio Sections
+NumPy
 
-The website includes the following sections:
+Scikit-learn
 
-- **Hero Section** – Introduction and resume access
-- **Skills Section** – Technical skills and tools
-- **Projects Section** – My major development and ML projects
-- **Experience Section** – Academic and practical experience
-- **Certifications Section** – Professional certifications
-- **Contact Section** – Contact information and message form
+OpenCV
 
----
+Data Visualization
 
-# 📊 Featured Projects
+Power BI
 
-### 📌 Face Recognition Attendance System
-A machine learning based attendance system using **OpenCV and Python**.
+Tableau
 
-### 📌 Customer Churn Analysis
-Data analysis project predicting customer churn using **Python and Machine Learning**.
+Matplotlib
 
-### 📌 Library Tracker System
-A management system to track library books and records.
+Seaborn
 
-### 📌 Storify Platform
-A content platform project built using modern web technologies.
+Web Development
 
----
+React
 
-# 📜 Certifications
+Flask
 
-- NPTEL Cloud Computing — IIT Kharagpur
-- Data Structures & Algorithms using Java — CipherSchools
-- Oracle Cloud Infrastructure AI Foundations Associate
-- ChatGPT Prompt Engineering — Infosys Springboard
+FastAPI
 
----
+Tailwind CSS
 
-# 📬 Contact Me
+Bootstrap
 
-📧 Email: **aniketrai274409@gmail.com**  
-📍 Location: Gorakhpur, Uttar Pradesh, India  
+Tools
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/aniket-rai7
+Git & GitHub
 
-🔗 GitHub  
-https://github.com/aniketrai07
+Docker
 
----
+Jupyter Notebook
 
-# ⚡ Installation (Run Locally)
+Linux
 
-Clone the repository
+VS Code
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+📂 Featured Projects
+📊 Shopify Sales Analytics Dashboard
+
+Interactive Power BI dashboard analyzing Shopify sales data, customer behavior, and revenue trends to support data-driven decision making.
+
+Tech: Power BI, DAX, Data Modeling
+
+🤖 Car Price Prediction
+
+Machine learning model that predicts car prices using vehicle attributes and regression techniques.
+
+Tech: Python, Pandas, NumPy, Scikit-learn
+
+🧾 Inventory & Billing Management System
+
+Django-based web application for managing product inventory, billing, and transactions with database support.
+
+Tech: Python, Django, SQLite, HTML, CSS
+
+🎯 Features of This Portfolio
+
+Responsive modern UI
+
+Interactive project cards
+
+Technology stack showcase
+
+Project previews and GitHub links
+
+Clean developer-focused layout
+
+⚙️ Installation (Run Locally)
+
+Clone the repository:
+
+git clone https://github.com/shrutii2631/YOUR-REPO-NAME.git
+
+
+Go to project directory:
+
+cd YOUR-REPO-NAME
+
+
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
+npm run dev
+
+
+Open in browser:
+
+http://localhost:3000
+
+📬 Contact
+
+📧 Email
+skumari63160@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/shruti286
+
+💻 GitHub
+https://github.com/shrutii2631
+
+⭐ If you like this project
+
+Give the repository a star ⭐ on GitHub.

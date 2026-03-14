@@ -35,7 +35,6 @@ const skillGroups = [
       "Git",
       "GitHub",
       "Docker Desktop",
-      "Jira",
       "Jupyter Notebook",
       "Linux",
     ],

@@ -20,7 +20,7 @@ const BUTTONS = [
   },
   {
     name: "LeetCode",
-    href: "https://leetcode.com/u/aniket_rai7/",
+    href: "https://leetcode.com/u/lpushruti/",
     icon: <SiLeetcode size={24} color={"#FFA116"} />,
   },
 ];

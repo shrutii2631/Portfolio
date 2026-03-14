@@ -13,7 +13,7 @@ export default function Footer() {
           animate="enter"
           exit="exit"
         >
-          <span>Built by:</span> Aniket Kumar Rai © {new Date().getFullYear()}
+          <span>Built by:</span> Shruti Kumari © {new Date().getFullYear()}
         </motion.li>
       </ul>
 
@@ -78,7 +78,7 @@ export default function Footer() {
           exit="exit"
         >
           <a
-            href="https://www.linkedin.com/in/aniket-rajpoot-36774b281/"
+            href="https://www.linkedin.com/in/aniket-36774b281/"
             target="_blank"
             rel="noopener noreferrer"
           >
